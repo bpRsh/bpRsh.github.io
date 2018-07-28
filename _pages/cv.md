@@ -18,48 +18,52 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+Ph.D. in Physics<br>
+Ohio University<br>
+*Advisor: Prof. Douglas Clowe*
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**2014-2016**<br>
+Master's degree, Physics<br>
+Ohio University<br>
+*Advisor: Prof. Douglas Clowe*
+
+
+**2007-2009**<br>
+Master's degree, Physics<br>
+Tribhuvan University<br>
+Kathmandu, Nepal
 
 ## Research experience
 ---
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+**2014 - Present**<br>
+OU Graduate Researcher
+Studying the effect of wavelength dependent PSF on the shear and mass
+measurement of galaxy clusters.
 
-
-## Service and Outreach
----
-**2013 - Present**<br>
-Outreach<br>
 
 
 ## Publications
 ---
-**Name2** et al. "Title of paper 1", 2016.
+In progress.
 
-
-
-## Awards and Honors
----
-Best Jekyll Theme, *Spring 2018*<br>
 
 
 ## Talks and Presentations
 ---
-"Seminar 17", University Colloquium, *March 2018*
 
 
 ## Teaching
 ---
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
+**Spring 2014-15**<br>
+Teaching Assistant<br>
+*Mechanics 2001*
+
+**Fall 2014-15**<br>
+Teaching Assistant<br>
+*Mechanics 2001*
+
+**Mar 2009 - Dec 2013**<br>
+College Lecturer<br>
+Chitwan, Nepal<br>
+*General Physics Courses for XI and XII classes*
