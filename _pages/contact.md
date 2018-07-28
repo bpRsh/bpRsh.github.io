@@ -6,4 +6,15 @@ author_profile: true
 classes: wide
 ---
 
-Here's my contact info
+Here's my contact info.
+
+Bhishan Poudel
+Ohio University
+Department of Physics and Astronomy
+139 University Terrace
+338 C Clippinger Laboratory
+Athens, OH 45701
+
+Email: bp959314@ohio.edu
+Email: bhishanpdl@gmail.com
+Web: http://www.phy.ohiou.edu/~poudel/
