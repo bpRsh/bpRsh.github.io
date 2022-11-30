@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-You can reach me at this address.  
 
 Bhishan Poudel  
 Data Scientist II
