@@ -300,21 +300,21 @@ defaults:
       path: ""
       type: travel
     values:
-      layout: single-travel
+      layout: single
       author_profile: true
   # _projects
   - scope:
       path: ""
-      type: project
+      type: projects
     values:
-      layout: single-project
+      layout: single
       author_profile: true
   # _blogs
   - scope:
       path: ""
       type: blogs
     values:
-      layout: single-blog
+      layout: single
       author_profile: true
 
 
