@@ -275,16 +275,13 @@ defaults:
 
 # Collections
 collections:
-  teaching:
+  travel:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  code:
+  blogs:
     output: true
     permalink: /:collection/:path/
 
@@ -298,34 +295,28 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _travel
   - scope:
       path: ""
-      type: teaching
+      type: travel
     values:
-      layout: single-teaching
+      layout: single-travel
       author_profile: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: project
     values:
-      layout: single-publication
+      layout: single-project
       author_profile: true
-  # _talks
+  # _blogs
   - scope:
       path: ""
-      type: talks
+      type: blogs
     values:
-      layout: single-talk
+      layout: single-blog
       author_profile: true
-  # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: true
+
 
 
 
