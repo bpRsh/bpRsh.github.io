@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Bhishan Poudel"
   avatar           : /images/bhishan.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D atudent at Department of Physics and Astronomy in Ohio University"
-  location         : "Athens, OH"
-  employer         : "Ohio University"
-  email            : "bp959314@ohio.edu"
+  bio              : "Data Scientist II @AmerisourceBergen"
+  location         : "Manhattan, NY"
+  employer         : "AmerisourceBergen"
+  email            : "bhishanpdl@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
