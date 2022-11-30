@@ -17,7 +17,7 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**In Progress**<br>
+**2016-2022**<br>
 Ph.D. in Physics<br>
 Ohio University<br>
 *Advisor: Prof. Douglas Clowe*
@@ -28,42 +28,11 @@ Ohio University<br>
 *Advisor: Prof. Douglas Clowe*
 
 
-**2007-2009**<br>
-Master's degree, Physics<br>
-Tribhuvan University<br>
-Kathmandu, Nepal
-
 ## Research experience
 ---
 
-**2014 - Present**<br>
-OU Graduate Researcher
-Studying the effect of wavelength dependent PSF on the shear and mass
+**2014 - 2022**<br>
+PhD Student, Ohio University<br>
+Worked on the research on the effect of "wavelength dependent PSF" on the shear and mass
 measurement of galaxy clusters.
 
-
-
-## Publications
----
-In progress.
-
-
-
-## Talks and Presentations
----
-
-
-## Teaching
----
-**Spring 2014-15**<br>
-Teaching Assistant<br>
-*Mechanics 2001*
-
-**Fall 2014-15**<br>
-Teaching Assistant<br>
-*Mechanics 2001*
-
-**Mar 2009 - Dec 2013**<br>
-College Lecturer<br>
-Chitwan, Nepal<br>
-*General Physics Courses for XI and XII classes*
