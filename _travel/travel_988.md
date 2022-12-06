@@ -2,7 +2,7 @@
 title: "Dallas Rose Garden"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_088
+permalink: /travel/travel_988
 date: 2022-07-10
 ---
 
