@@ -2,7 +2,7 @@
 title: "Manakmana Temple, Gorkha Nepal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_053
+permalink: /travel/travel_953
 date: 2014-07-30
 ---
 
