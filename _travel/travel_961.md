@@ -2,7 +2,7 @@
 title: "Apple Farm at Kalamazoo, Michigan"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_061
+permalink: /travel/travel_961
 date: 2015-10-23
 ---
 
