@@ -2,7 +2,7 @@
 title: "Athens, Ohio (Snowfall)"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_64
+permalink: /travel/travel_064
 date: 2016-01-23
 ---
 
