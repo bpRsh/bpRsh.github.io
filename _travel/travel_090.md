@@ -2,7 +2,7 @@
 title: "Chicago Michigan Lake"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_90
+permalink: /travel/travel_090
 date: 2022-07-25
 ---
 
