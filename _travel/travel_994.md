@@ -2,7 +2,7 @@
 title: "Colorado Denver"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_094
+permalink: /travel/travel_994
 date: 2022-07-04
 ---
 
