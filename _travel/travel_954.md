@@ -2,7 +2,7 @@
 title: "Daunne Devi Temple, Nawalparasi Nepal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_054
+permalink: /travel/travel_954
 date: 2014-07-28
 ---
 
