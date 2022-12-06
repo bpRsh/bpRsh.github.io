@@ -2,7 +2,7 @@
 title: "Ohio University"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_58
+permalink: /travel/travel_958
 date: 2014-10-24
 ---
 
