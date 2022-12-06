@@ -2,7 +2,7 @@
 title: "Mhepi Temple, Kathmandu Nepal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_51
+permalink: /travel/travel_951
 date: 2014-06-02
 ---
 
