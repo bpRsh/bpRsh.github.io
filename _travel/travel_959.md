@@ -2,7 +2,7 @@
 title: "Court Street, Athens Ohio"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_59
+permalink: /travel/travel_959
 date: 2014-10-31
 ---
 
