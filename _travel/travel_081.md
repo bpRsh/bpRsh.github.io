@@ -2,7 +2,7 @@
 title: "Times Square New York"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_81
+permalink: /travel/travel_081
 date: 2021-11-18
 ---
 
