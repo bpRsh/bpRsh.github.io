@@ -2,7 +2,7 @@
 title: "Kitt Peak Observatory, Arizona"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_67
+permalink: /travel/travel_067
 date: 2016-03-01
 ---
 
