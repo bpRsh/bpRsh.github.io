@@ -2,7 +2,7 @@
 title: "Miami, Florida (Christmas 2017)"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_072
+permalink: /travel/travel_972
 date: 2017-12-25
 ---
 
