@@ -6,6 +6,9 @@ permalink: /travel/travel_998
 date: 2022-10-10
 ---
 
+![](images/998_01.jpg)
+![](images/998_02.jpg)
+
 Madam Tussaud's in New York is a must-see attraction for anyone who loves art, history, and celebrity culture. Located in the heart of Times Square, this museum showcases over 200 life-like wax figures of some of the most famous and influential people in the world.
 
 The museum is divided into several themed galleries, including Movie Stars, Music Icons, Historical Figures, and Sports Legends. In the Movie Stars gallery, you can see wax figures of some of the biggest names in Hollywood, from classic stars like Audrey Hepburn and Marilyn Monroe, to modern icons like Brad Pitt and Angelina Jolie. The Music Icons gallery features wax figures of legendary musicians, from Elvis Presley and Michael Jackson, to Lady Gaga and Taylor Swift.
