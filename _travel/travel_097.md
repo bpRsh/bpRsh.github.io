@@ -2,7 +2,7 @@
 title: "Syracuse"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_97
+permalink: /travel/travel_097
 date: 2022-11-04
 ---
 
