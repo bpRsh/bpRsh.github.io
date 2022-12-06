@@ -2,7 +2,7 @@
 title: "Dallas Katy Trail Ice Garden"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_89
+permalink: /travel/travel_089
 date: 2022-07-10
 ---
 
