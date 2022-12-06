@@ -2,7 +2,7 @@
 title: "Roosevelt Island"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_079
+permalink: /travel/travel_979
 date: 2021-09-10
 ---
 
