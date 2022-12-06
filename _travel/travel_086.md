@@ -2,7 +2,7 @@
 title: "Dallas Mandalay Canal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_99
+permalink: /travel/travel_086
 date: 2022-07-31
 ---
 
