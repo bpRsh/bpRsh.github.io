@@ -2,7 +2,7 @@
 title: "New York City"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_77
+permalink: /travel/travel_077
 date: 2019-06-12
 ---
 
