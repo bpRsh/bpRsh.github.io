@@ -2,7 +2,7 @@
 title: "Niagara Falls, New York"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_69
+permalink: /travel/travel_069
 date: 2016-07-23
 ---
 
