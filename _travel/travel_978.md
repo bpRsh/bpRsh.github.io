@@ -2,7 +2,7 @@
 title: "Lake Rupert, Athens Ohio"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_078
+permalink: /travel/travel_978
 date: 2019-07-02
 ---
 
