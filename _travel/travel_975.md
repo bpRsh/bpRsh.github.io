@@ -2,7 +2,7 @@
 title: "Morrisville, North Carolina (Dipawali 2018)"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_075
+permalink: /travel/travel_975
 date: 2018-11-06
 ---
 
