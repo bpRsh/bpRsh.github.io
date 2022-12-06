@@ -2,7 +2,7 @@
 title: "Basantapur Palace, Kathmandu Nepal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_55
+permalink: /travel/travel_055
 date: 2014-08-08
 ---
 
