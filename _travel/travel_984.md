@@ -2,7 +2,7 @@
 title: "Strouds Run, Ohio"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_084
+permalink: /travel/travel_984
 date: 2021-11-01
 ---
 
