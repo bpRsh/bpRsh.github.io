@@ -2,7 +2,7 @@
 title: "Dallas Bowling"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_87
+permalink: /travel/travel_087
 date: 2022-07-31
 ---
 
