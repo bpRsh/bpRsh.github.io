@@ -2,7 +2,7 @@
 title: "Chicago Navy Piers"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_63
+permalink: /travel/travel_063
 date: 2015-10-25
 ---
 
