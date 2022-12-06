@@ -2,7 +2,7 @@
 title: "Colorado Springs Red Rocks"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_099
+permalink: /travel/travel_999
 date: 2022-07-04
 ---
 
