@@ -2,7 +2,7 @@
 title: "Dallas Downton"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_096
+permalink: /travel/travel_996
 date: 2022-09-05
 ---
 
