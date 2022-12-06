@@ -2,7 +2,7 @@
 title: "Maula Kalika, Gaindakot Nawalparasi Nepal"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_052
+permalink: /travel/travel_952
 date: 2014-07-23
 ---
 
