@@ -2,7 +2,7 @@
 title: "Greyson Highlands Hiking, West Virginia"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_070
+permalink: /travel/travel_970
 date: 2017-04-09
 ---
 
