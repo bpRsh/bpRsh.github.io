@@ -2,7 +2,7 @@
 title: "Swaminarayan Temple in Bartlett, Illinois"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_062
+permalink: /travel/travel_962
 date: 2015-10-24
 ---
 
