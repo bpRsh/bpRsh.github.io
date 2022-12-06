@@ -2,7 +2,7 @@
 title: "Roosevelt Island Tramway"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_82
+permalink: /travel/travel_082
 date: 2021-09-20
 ---
 
