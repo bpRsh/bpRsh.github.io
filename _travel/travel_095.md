@@ -2,7 +2,7 @@
 title: "Roosevelt Island, NY"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_95
+permalink: /travel/travel_095
 date: 2022-04-03
 ---
 
