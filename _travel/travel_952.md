@@ -6,7 +6,6 @@ permalink: /travel/travel_952
 date: 2014-07-23
 ---
 
-# Maula Kalika, Gaindakot Nawalparasi Nepal
 Maula Kalika is a popular Hindu temple located in the Gaindakot town of the Nawalpur district in the Gandaki province of Nepal. The temple is dedicated to the goddess Kalika, and is a popular attraction for both devotees and tourists alike. The temple is a testament to the rich culture and history of Nepal, and offers a glimpse into the spiritual life of the region.
 
 One of the main features of Maula Kalika Temple is its location. The temple is located in the town of Gaindakot, which is easily accessible from other parts of the city. The temple is surrounded by a number of other attractions, such as temples, gardens, and museums, which offer a wide range of cultural and historical experiences. The temple is also located near a number of shops, restaurants, and hotels, which offer a wide range of products and services.
