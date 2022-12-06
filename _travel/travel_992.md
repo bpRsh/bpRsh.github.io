@@ -2,7 +2,7 @@
 title: "Colorado Springs Pike Peaks"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_092
+permalink: /travel/travel_992
 date: 2022-07-05
 ---
 
