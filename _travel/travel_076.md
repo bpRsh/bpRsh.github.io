@@ -2,7 +2,7 @@
 title: "New Vrindaban Temple, West Virginia"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_76
+permalink: /travel/travel_076
 date: 2019-05-27
 ---
 
