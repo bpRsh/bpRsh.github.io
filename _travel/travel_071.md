@@ -2,7 +2,7 @@
 title: "Millennium Park, Chicago"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_71
+permalink: /travel/travel_071
 date: 2017-05-21
 ---
 
