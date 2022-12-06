@@ -2,7 +2,7 @@
 title: "Madam Tussads"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_98
+permalink: /travel/travel_098
 date: 2022-10-10
 ---
 
