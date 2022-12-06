@@ -2,7 +2,7 @@
 title: "The North Carolina Museum of Natural Sciences"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_74
+permalink: /travel/travel_074
 date: 2018-08-13
 ---
 
