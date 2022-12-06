@@ -2,7 +2,7 @@
 title: "Canturbury, Athens Ohio"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_66
+permalink: /travel/travel_066
 date: 2016-02-28
 ---
 
