@@ -2,7 +2,7 @@
 title: "Statue of Liberty, New York"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_80
+permalink: /travel/travel_080
 date: 2021-09-19
 ---
 
