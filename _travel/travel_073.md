@@ -2,7 +2,7 @@
 title: "Pittsburgh, Pennsylvania"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_73
+permalink: /travel/travel_073
 date: 2018-07-28
 ---
 
