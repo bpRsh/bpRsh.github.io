@@ -2,7 +2,7 @@
 title: "University of Cincinnati, Ohio"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_60
+permalink: /travel/travel_060
 date: 2014-12-07
 ---
 
