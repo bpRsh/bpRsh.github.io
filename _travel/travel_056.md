@@ -2,7 +2,7 @@
 title: "First Visit of Columbus Airport"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_56
+permalink: /travel/travel_056
 date: 2014-08-08
 ---
 
