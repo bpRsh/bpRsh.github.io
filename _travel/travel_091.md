@@ -2,7 +2,7 @@
 title: "Chicago Millennium Park"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_91
+permalink: /travel/travel_091
 date: 2022-07-24
 ---
 
