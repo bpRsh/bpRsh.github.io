@@ -2,7 +2,7 @@
 title: "Dallas Fort-Worth Water Garden"
 collection: travel
 type: "Travel"
-permalink: /travel/travel_085
+permalink: /travel/travel_985
 date: 2022-02-02
 ---
 
