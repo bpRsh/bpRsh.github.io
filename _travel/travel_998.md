@@ -6,8 +6,8 @@ permalink: /travel/travel_998
 date: 2022-10-10
 ---
 
-![](images/998_01.jpg)
-![](images/998_02.jpg)
+<img src="images/998_01.jpg" alt="image" height="200" width="200"/>
+
 
 Madam Tussaud's in New York is a must-see attraction for anyone who loves art, history, and celebrity culture. Located in the heart of Times Square, this museum showcases over 200 life-like wax figures of some of the most famous and influential people in the world.
 
