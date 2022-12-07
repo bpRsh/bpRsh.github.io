@@ -11,7 +11,8 @@ date: 2022-09-05
 <figure class="half" style="display:flex">
     <img style="width:400px" src="images/996_01.jpg">
     <img style="width:600px" src="images/996_02.jpg">
-    <figcaption>Caption describing these two images.</figcaption>
+    <img style="width:400px" src="images/996_03.jpg">
+    <img style="width:600px" src="images/996_04.jpg">
 </figure>
 
 
