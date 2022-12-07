@@ -6,7 +6,11 @@ permalink: /travel/travel_996
 date: 2022-09-05
 ---
 
-# Dallas Texas
+<img src="images/996_01.jpg" alt="image" height="200" width="200"/>
+<img src="images/996_02.jpg" alt="image" height="200" width="200"/>
+<img src="images/996_03.jpg" alt="image" height="200" width="200"/>
+<img src="images/996_04.jpg" alt="image" height="200" width="200"/>
+
 Dallas, Texas is a vibrant and cosmopolitan city located in the heart of North Texas. It is known for its rich history, thriving arts and culture scene, and world-class dining and shopping.
 
 One of the top attractions in Dallas is the Sixth Floor Museum at Dealey Plaza, which tells the story of the assassination of President John F. Kennedy in November 1963. The museum is located on the sixth floor of the former Texas School Book Depository, where the shots were fired, and features exhibits, artifacts, and audio-visual presentations that provide a detailed and moving account of this tragic event.
