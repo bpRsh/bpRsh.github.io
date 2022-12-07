@@ -6,21 +6,11 @@ permalink: /travel/travel_996
 date: 2022-09-05
 ---
 
-<div class="row">
-  <div class="column">
-    <img src="images/996_01.jpg" alt="Snow" style="width:40%">
-  </div>
-  <div class="column">
-    <img src="images/996_02.jpg" alt="Forest" style="width:40%">
-  </div>
-  <div class="column">
-    <img src="images/996_03.jpg" alt="Mountains" style="width:40%">
-  </div>
-</div>
+
 
 <figure class="half" style="display:flex">
     <img style="width:400px" src="images/996_01.jpg">
-    <img style="width:600px" src="images/996_01.jpg">
+    <img style="width:600px" src="images/996_02.jpg">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
