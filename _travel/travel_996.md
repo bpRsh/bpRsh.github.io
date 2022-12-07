@@ -6,10 +6,19 @@ permalink: /travel/travel_996
 date: 2022-09-05
 ---
 
-<img src="images/996_01.jpg" alt="image" height="200" width="200"/>
-<img src="images/996_02.jpg" alt="image" height="200" width="200"/>
-<img src="images/996_03.jpg" alt="image" height="200" width="200"/>
-<img src="images/996_04.jpg" alt="image" height="200" width="200"/>
+<div class="row">
+  <div class="column">
+    <img src="images/996_01.jpg" alt="Snow" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="images/996_02.jpg" alt="Forest" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="images/996_03.jpg" alt="Mountains" style="width:40%">
+  </div>
+</div>
+
+
 
 Dallas, Texas is a vibrant and cosmopolitan city located in the heart of North Texas. It is known for its rich history, thriving arts and culture scene, and world-class dining and shopping.
 
