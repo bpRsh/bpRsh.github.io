@@ -18,6 +18,12 @@ date: 2022-09-05
   </div>
 </div>
 
+<figure class="half" style="display:flex">
+    <img style="width:400px" src="images/996_01.jpg">
+    <img style="width:600px" src="images/996_01.jpg">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
 
 
 Dallas, Texas is a vibrant and cosmopolitan city located in the heart of North Texas. It is known for its rich history, thriving arts and culture scene, and world-class dining and shopping.
