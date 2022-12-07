@@ -6,8 +6,9 @@ permalink: /travel/travel_997
 date: 2022-11-04
 ---
 
+<img src="images/997_01.jpg" alt="image" height="200" width="200"/>
+<img src="images/997_02.jpg" alt="image" height="200" width="200"/>
 
-# Syracuse NY
 Syracuse, New York is a vibrant and diverse city located in the heart of Central New York. It is known for its rich history, vibrant arts and culture scene, and beautiful natural surroundings.
 
 One of the top attractions in Syracuse is the Erie Canal Museum, which tells the story of the construction and history of the Erie Canal, a 363-mile long waterway that played a crucial role in the economic and cultural development of the region. The museum features exhibits, artifacts, and interactive displays that provide a fascinating look at the history and impact of the canal.
